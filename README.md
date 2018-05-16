@@ -1,4 +1,4 @@
-#Mentor Mangement
+# Mentor Mangement
 
 This is part of the Delta Inductions 2018 for Web Development.
 
